@@ -4,6 +4,7 @@ import os
 
 mp_face_detection = mp.solutions.face_detection
 
+
 class FaceDetector:
     def __init__(self):
         pass
